@@ -1,0 +1,45 @@
+1) Why is there such a "learning curve" when learning a traditional programming
+language such as Java?
+There is a learning curve when learning a programming language because you have to learn the language at your own rate.
+
+2) What is learning to program ultimately about?
+Learning to program is ultimately about learning to think logically and to approach problems methodically. 
+
+3) How does Scratch "lower the bar" to programming?
+Scratch "lowers the bar" in programming by making the problem like a puzzle and fitting the peices accordingly. 
+
+4) What is a statement in a programming language?
+A statement is a directive that tells the computer to do something.
+
+5) What is a Boolean expression?
+A Boolean expression is an expression that is either true or false.
+
+6) What is a conditional statement?
+A condition is something that must be true in order for something to happen.
+
+7) What is a loop used for in a programming language?
+A loop is used to repeat a statement.
+
+8) What is the difference between a local variable and a global variable?
+Local variables can only be used by one sprite, whereas global variables can be used by every sprite.
+
+9) What is a Boolean variable?
+A Boolean variable is a variable that can only take a value of true or false.
+
+10) Which type of blocks in Scratch can be considered threads?
+Any block in scratch who's label begins with "when" is considered a thread.
+
+11) Which type of blocks in Scratch can be considered event handlers?
+The blocks who's label reads "when I recieve" are considered event handlers.
+
+12) How many sprites are implemented in Oscartime?
+There are nine sprites in Oscartime.
+
+13) How many threads are used to display the Oscartime game instructions?
+There is only one thread to display the game's instructions.
+
+14) How many threads are used by Oscartime's Oscar sprite?
+There are three threads used by Oscartime's Oscar sprite.
+
+15) What programming constructs does Scratch NOT support?
+Scratch doesn't support methods, parameters, return values, inheritance, and polymorphism.
